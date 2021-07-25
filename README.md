@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agaudiobesson, from Bordeaux, France
+- 👋 Hi, I’m @agaudiobesson, 35, from Bordeaux, France
 - 👀 I’m interested in programming and technology, food, chillhop, languages, travel, meeting people and cultures...
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on anything improving linux distro like pop-os, bringing modernity and ease of use on the laptop
