@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @agaudiobesson, M35, from Bordeaux, France
-- 👀 I’m interested in programming and technology, food, chillhop, languages, travel, meeting people and cultures...
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on anything improving linux distro like pop-os, bringing modernity and ease of use on the laptop
-- 📫 How to reach me, via github, you can reach me quite easily
+- 👋 Hi, I’m @agaudiobesson
 
 <!---
 agaudiobesson/agaudiobesson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
